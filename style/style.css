@@ -1,0 +1,45 @@
+section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    
+}
+.box1{
+
+    background-color: rgba(88, 205, 238, 0.642);
+    height: 500px;
+    width: 800px;
+    border-radius: 20px;
+    
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+    margin-top: 50px;
+
+}
+.heading{
+margin: 5px;
+}
+
+.choose-file{
+    text-align: center;
+    background-color: rgb(157, 255, 0);
+    color: brown;
+    size: 30px;
+}
+#file-color{
+    color: red;
+}
+.from{
+text-align: center;
+}
+.button{
+    align-content: center;
+    margin-top:38px;
+}
+.drop-container{
+    margin-left: auto;
+    margin-right: auto;
+}
